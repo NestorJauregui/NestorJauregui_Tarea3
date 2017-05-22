@@ -1,2 +1,3 @@
-# NestorJauregui_Tarea3
-Repositorio creado para entregar la tarea 3 del curso "Métodos Computacionales Avanzados".
+## Juan Guillermo Aguilar 2101223611
+## Juan Camilo Gallego Gallón 201224281  
+## Néstor Iván Jauregui Sarmiento 201314329
